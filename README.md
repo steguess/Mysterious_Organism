@@ -5,8 +5,9 @@
 <div align="center">
 
 [![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
+[![Codecademy](https://img.shields.io/badge/Course-Codecademy-blue.svg?style=flat-square)](https://www.codecademy.com/)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/yourusername/mystery-organism/issues)
+
 
 </div>
 
